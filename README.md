@@ -28,7 +28,7 @@ ____________________________
 a. 데이터셋 
 
 
-  aihub에서 상품데이터 다운로드.
+  aihub에서 상품데이터 다운로드 or 직접촬영
 
   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=64
 
@@ -39,6 +39,7 @@ b. object detection
 
   
   https://pytorch.org/hub/ultralytics_yolov5/
+  -> best.pt 로 저장
 
   
 c. image classification
@@ -47,6 +48,7 @@ c. image classification
   Resnet을 이용해 탐지된 물품들을 식별한다.
 
   https://pytorch.org/hub/pytorch_vision_resnet/
+  -> resnetBest.pt 로 저장
 
 ________________________________________
 ### 2. pythonCode파트
@@ -63,6 +65,7 @@ https://developers.portone.io/docs/ko/readme
 streamlit을 이용하여 웹페이지 제작.
 
 https://streamlit.io/
+
 
 6. 배포
 
