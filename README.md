@@ -29,7 +29,7 @@ ____________________________
 a. 데이터셋 
 
 
-  aihub에서 상품데이터 다운로드 or 직접촬영
+  aihub에서 상품데이터 다운로드 
 
   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=64
 
