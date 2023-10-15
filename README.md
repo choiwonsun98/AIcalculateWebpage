@@ -21,11 +21,17 @@ __________________
 
 2. object detection
 
-  
+![2](https://github.com/choiwonsun98/AIcalculateWebpage/assets/147475996/6fb8bca0-9251-4cca-bf77-f5175ee27fdf)
 
-4. 촬영버튼으로 상품 촬영
-5. 계산된 가격을 결제
 
+3. image classification
+
+![3](https://github.com/choiwonsun98/AIcalculateWebpage/assets/147475996/32555bca-58c2-49c4-bb77-db372e6af441)
+
+
+4. 계산
+
+![4](https://github.com/choiwonsun98/AIcalculateWebpage/assets/147475996/1123a7bf-1fa0-4552-9b12-1547ffffda43)
 ____________________________
 
 ## 상세설명
