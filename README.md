@@ -24,7 +24,7 @@ __________________
 
 
 
-3. object detection
+2. object detection
 
 ![2](https://github.com/choiwonsun98/AIcalculateWebpage/assets/147475996/6fb8bca0-9251-4cca-bf77-f5175ee27fdf)
 
